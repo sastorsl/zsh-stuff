@@ -1,2 +1,2 @@
 # zsh-stuff
-zsh function etc.
+login to clusters first
